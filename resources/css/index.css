@@ -1,0 +1,37 @@
+* {
+  font-family:Helvetica;
+  box-sizing: border-box;
+  padding:0;
+  border:0;
+}
+
+h1 {
+  background-image: url("/resources/images/pattern.jpeg");
+  padding: 20px 0px;
+  color:rgb(240, 230, 140);
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes h2 {
+  background-color: springgreen;
+}
+
+#frames h2{
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.buylink {
+  color:blue;
+  font-weight: bold;
+}
